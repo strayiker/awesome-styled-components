@@ -81,6 +81,7 @@
 * [grid-styled](https://github.com/jxnblk/grid-styled) - Responsive grid system.
 
 #### Helpers
+* [styled-components-trick](https://gist.github.com/strayiker/eb78b27607a430a1d39bf5de70243266) - That how you can select css value based on props. No third-party packages, registration and SMS.
 * [shevyjs](https://github.com/kyleshevlin/shevyjs) - Easily create and manage global typography and vertical rhythm.
 * [design-system-utils](https://github.com/mrmartineau/design-system-utils) - Utilities to give better access to your design system.
 * [styled-components-modifiers](https://github.com/Decisiv/styled-components-modifiers) - Enables BEM flavored modifiers (and responsive modifiers).
